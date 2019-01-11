@@ -2,7 +2,7 @@
     "kind": "Template",
     "apiVersion": "v1",
     "metadata": {
-        "name": "dotnet2.2-example",
+        "name": "dotnet22-example",
         "annotations": {
             "openshift.io/display-name": ".NET Core Example",
             "description": "An example .NET Core application.",
