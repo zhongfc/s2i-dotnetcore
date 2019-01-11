@@ -12,7 +12,7 @@
             "kind": "ImageStream",
             "apiVersion": "v1",
             "metadata": {
-                "name": "dotnet",
+                "name": "dotnet-1",
                 "annotations": {
                     "openshift.io/display-name": ".NET Core"
                 }
@@ -79,7 +79,7 @@
             "kind": "ImageStream",
             "apiVersion": "v1",
             "metadata": {
-                "name": "dotnet-runtime",
+                "name": "dotnet-runtime-1",
                 "annotations": {
                     "openshift.io/display-name": ".NET Core Runtime"
                 }
